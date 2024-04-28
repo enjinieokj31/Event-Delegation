@@ -1,0 +1,22 @@
+.tabs{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    color: blue;
+    list-style: none;
+}
+
+.menu-images .image {
+    display: inline-block; /* Override inline styles applied via JavaScript */
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}
+
+.menu-images{
+    margin-top: 2rem;
+}
+
+img{
+    width: 15rem;
+    height: 13rem;
+}
